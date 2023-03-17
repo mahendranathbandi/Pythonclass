@@ -1,0 +1,8 @@
+,git clone
+git checkout <branch name>
+
+git status
+ git add
+ git commit
+ git log -- to see commits
+ git push origin branchname
